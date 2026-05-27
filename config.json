@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productctringify",
+        "uuid": 11384921,
+        "checksum": "bibzee"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
